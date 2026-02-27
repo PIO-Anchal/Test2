@@ -6,3 +6,4 @@ now toal line is 5.
 new branch added. 
 Add a new line to resolve the issue. 
 Now auto close the issue by using the fix keyword in commit option. 
+Now auto close the issue by using the fixes keyword in commit option. new 
